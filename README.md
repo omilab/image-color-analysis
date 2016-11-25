@@ -19,8 +19,9 @@ The following is a tutorial for using the tool on a given folder of images. We w
 #### A  Step by Step Guide for using the tool
 
 1. In Anaconda, open "Jupyter Notebook".
-2. When notebook opens - it automatically opens your default browser and shows your file directory. 3. Open your downloaded and extracted folder.
-4. Open the file "image_color_analysis_ipynb".
+2. When notebook opens - it automatically opens your default browser and shows your file directory. 
+3. Open your downloaded and extracted folder.
+4. Open the file "image_color_analysis.ipynb".
 
 #### Now, let's have some fun!
 
