@@ -2,7 +2,7 @@
 
 This color analysis tool was built to support a data visual analytics method for the study of  national Webs. It was initially used to analyze the changing colors of the former Yugoslav domain, .yu, during the Kosovo War. For more information please refer to:
 
-Ben-David, A., Amram, A., & Bekkerman, R. (in press). [The Colors of the National Web: Visual Data Analysis of the Historical Yugoslav Web Domain](https://www.dropbox.com/s/epzfp69pwqdwl8h/The_Colors_of_the_National_Web_preprint.pdf?dl=0). *Internation Journal on Digital Libraries*.
+Ben-David, A., Amram, A., & Bekkerman, R. (in press). [The Colors of the National Web: Visual Data Analysis of the Historical Yugoslav Web Domain](https://www.academia.edu/30508702/The_colors_of_the_national_Web_visual_data_analysis_of_the_historical_Yugoslav_Web_domain._Int_J_Digit_Libr_2016_._doi_10.1007_s00799-016-0202-6). *Internation Journal on Digital Libraries*.
  
 
 The method can be readily applied to any other national Web (or Web archive), and, in fact, to any folder of images.
