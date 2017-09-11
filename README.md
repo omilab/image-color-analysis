@@ -40,7 +40,7 @@ In this section, we first specify the location of an images folder and load the 
 Click the 'run' button to start this procedure. When it's done, it prints the time it took to build the collage (this give a good indication of the process when analyzing a large corpus). The generated collage pops up. You may want to view or save it.
  
 
-#####Part 2: Building a K-Means model and running it on the collage 
+##### Part 2: Building a K-Means model and running it on the collage 
 
 In order to calculate and identify clusters of colors in the dataset, we first need to convert the images into a numerical representation - a color array. The array has four dimensions: Red, Green, Blue (RGB) and Alpha (the transparent color we added to mark the empty spaces in the previous section).
 Subsequently, the collage is represented as a matrix of the total height * total width * 4(that is, RGB+A).
