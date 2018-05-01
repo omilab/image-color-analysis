@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 from sklearn.cluster import KMeans
 import numpy as np
 import time
